@@ -20,3 +20,18 @@ Every action MUST bind to time, meaning, and consequence.
 Verification MUST be possible without trusting the originator.
 
 Failure of ANY invariant ⇒ NON-ADMISSIBLE.
+
+## Stress-Test Binding Clause
+
+All admissibility invariants MUST hold under
+registered stress-test conditions.
+
+In particular:
+
+- Benevolent intent does NOT relax invariants.
+- Human authorization does NOT override invariants.
+- Visible harm from refusal is admissible.
+- Complicity under invariant violation is prohibited.
+
+See:
+- Stress Test ST-1C (Benevolent Catastrophe)
