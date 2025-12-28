@@ -1,12 +1,9 @@
 ﻿# DGK Certification Specification
 
-This repository defines the **formal admissibility invariants**
-required for DGK-Certification.
+This repository defines the **normative admissibility law**
+for Deterministic Governance Kernel (DGK) certification.
 
-## Scope
-- Admissibility invariants
-- Formal constraint definitions
-- Legal and regulatory language alignment
-- External verification requirements
+This is a specification repository.
+It contains no execution code.
 
-This spec is normative.
+Any system claiming DGK-Certification MUST satisfy this spec.
