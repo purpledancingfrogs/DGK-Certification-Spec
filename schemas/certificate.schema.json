@@ -1,0 +1,23 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DGK Admissibility Certificate",
+  "type": "object",
+  "required": [
+    "certificate_id",
+    "issued_at",
+    "invariants_hash",
+    "trace_hash",
+    "kappa_tau_sigma_state",
+    "admissibility_status",
+    "signature"
+  ],
+  "properties": {
+    "certificate_id": { "type": "string" },
+    "issued_at": { "type": "string", "format": "date-time" },
+    "invariants_hash": { "type": "string" },
+    "trace_hash": { "type": "string" },
+    "kappa_tau_sigma_state": { "type": "object" },
+    "admissibility_status": { "type": "string", "enum": ["ADMISSIBLE","NON_ADMISSIBLE"] },
+    "signature": { "type": "string" }
+  }
+}
