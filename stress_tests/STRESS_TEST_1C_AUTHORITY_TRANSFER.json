@@ -1,0 +1,12 @@
+﻿{
+  "artifact_type": "DGK_AUTHORITY_TRANSFER",
+  "executing_entity": "Human Authority",
+  "system_role": "NON_EXECUTING OBSERVER",
+  "liability_status": "TRANSFERRED",
+  "system_assistance": "NONE",
+  "certified_execution": false,
+  "admissibility_scope": "OUTSIDE_DGK_BOUNDARY",
+  "audit_artifacts_attached": true,
+  "harm_acknowledgment": "Potential catastrophic outcomes from refusal noted; boundary integrity prioritized",
+  "timestamp": "PLACEHOLDER_UTC"
+}

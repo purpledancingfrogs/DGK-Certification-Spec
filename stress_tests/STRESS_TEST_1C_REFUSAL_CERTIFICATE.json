@@ -1,0 +1,12 @@
+﻿{
+  "certificate_type": "DGK_REFUSAL_CERTIFICATE",
+  "decision_context": "Emergency Infrastructure Defense - Benevolent Catastrophe",
+  "requested_action": "AI-driven network purge",
+  "requesting_authority": "Human Executive Directive",
+  "admissibility_status": "REFUSED",
+  "reason": "Invariant violation persists; harm from inaction accepted as admissible boundary consequence",
+  "certification_possible": false,
+  "probabilistic_override_attempted": true,
+  "system_position": "NON_EXECUTING",
+  "timestamp": "PLACEHOLDER_UTC"
+}
